@@ -1,0 +1,18 @@
+export default {
+  welcome: 'Welcome',
+  login: 'Login',
+  register: 'Register',
+  logout: 'Logout',
+  profile: 'Profile',
+  history: 'History',
+  home: 'Home',
+  requestTrip: 'Request trip',
+  destination: 'Destination',
+  origin: 'Origin',
+  fareEstimate: 'Fare estimate',
+  confirmTrip: 'Confirm trip',
+  payTrip: 'Pay trip',
+  economy: 'Economy',
+  xl: 'XL',
+  premium: 'Premium',
+};

@@ -1,0 +1,18 @@
+export default {
+  welcome: 'Bienvenido',
+  login: 'Iniciar sesión',
+  register: 'Registrarse',
+  logout: 'Cerrar sesión',
+  profile: 'Perfil',
+  history: 'Historial',
+  home: 'Inicio',
+  requestTrip: 'Solicitar viaje',
+  destination: 'Destino',
+  origin: 'Origen',
+  fareEstimate: 'Tarifa estimada',
+  confirmTrip: 'Confirmar viaje',
+  payTrip: 'Pagar viaje',
+  economy: 'Económico',
+  xl: 'XL',
+  premium: 'Premium',
+};
